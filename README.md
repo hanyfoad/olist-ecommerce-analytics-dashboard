@@ -3,7 +3,7 @@
 An interactive performance analytics dashboard built to analyze the Olist Brazilian E-commerce dataset. The dashboard provides end-to-end visibility into overall revenue, order volumes, customer satisfaction, payment methods, freight costs, top product categories, and temporal sales trends across different geographic regions.
 
 ---
-# Olist E-Commerce  Dashboard overwier
+# Olist E-Commerce  Dashboard overview
 <img width="590" height="330" alt="2" src="https://github.com/user-attachments/assets/2f7adca0-78e1-433a-abf6-c352f637ebdd" />
 <img width="589" height="329" alt="1" src="https://github.com/user-attachments/assets/60bcc2d3-1132-4f43-8f32-e14c44f7ad5e" />
 <img width="591" height="328" alt="3" src="https://github.com/user-attachments/assets/c6a0ba5c-cd54-4865-aa6b-1477676e5c0d" />
